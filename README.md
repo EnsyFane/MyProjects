@@ -14,4 +14,4 @@ This game was developed in **Unity** for a programming skill certificate. I deve
 I recieved the maximum grade on this project during the assessment. During the development of this game i used all my skills in game design.
 Besides the core gameplay elements I have also added a map generator to easily add new levels. This feature is only available in the unity editor.
 It is a wave-shooter with the last level being endless. You progress through a set of weapons that get progressively better while the enemies become stronger with each level.
-The game is a bit on the hard side but many of my classmates managed to get to the last level and enjoied the experience.
+The game is a bit on the hard side but many of my classmates managed to get to the last level and enjoyed the experience.
